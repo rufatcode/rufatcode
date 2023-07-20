@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **c# .Net**
 
-- 👨‍💻 some of my projects are available at [https://10xiq1.csb.app/](https://10xiq1.csb.app/)
+- 👨‍💻 some of my projects are available at [https://10xiq1.csb.app/](https://4mpb4j.csb.app/about)
 
 - 📫 How to reach me **rufatri@code.edu.az**
 
