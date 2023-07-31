@@ -10,7 +10,7 @@
 - 🌱 I’m currently use **c# .Net**
 
 - 👨‍💻 some of my projects are available at [https://10xiq1.csb.app/](https://4mpb4j.csb.app/about)
-- 👨‍💻 some of my projects are available at [https://10xiq1.csb.app/](https://cherup.netlify.app/)
+- 👨‍💻 some of my projects are available at [https://cherup.netlify.app/](https://cherup.netlify.app/)
 
 - 📫 How to reach me **rufatri@code.edu.az**
 
