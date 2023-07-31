@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🔭 I’m currently working on startup **love story**
+- 🔭 I’m currently working on real projects
 
-- 🌱 I’m currently learning **c# .Net**
+- 🌱 I’m currently use **c# .Net**
 
 - 👨‍💻 some of my projects are available at [https://10xiq1.csb.app/](https://4mpb4j.csb.app/about)
 
