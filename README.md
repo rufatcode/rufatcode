@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rufat</h1>
-<h3 align="center">I am full stack web developer</h3>
+<h3 align="center">I am software developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
