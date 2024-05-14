@@ -12,6 +12,7 @@
 - 👨‍💻 some of my projects are available at [https://kfzqc7.csb.app/project](https://kfzqc7.csb.app/project)
 - 👨‍💻 CherUp: [https://cherup.netlify.app/](https://cherup.netlify.app/)
 - 👨‍💻 On-Trend: [https://on-trend.netlify.app/](https://on-trend.netlify.app/)
+- 👨‍💻 MyPathAcademy: [https://mypathacademy.com/](https://mypathacademy.com/)
 
 - 📫 How to reach me **rufatri@code.edu.az**
 
